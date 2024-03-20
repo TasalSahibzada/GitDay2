@@ -7,5 +7,7 @@ public class HomePage {
         // nav menu
 
         // mpre thing for the homepage
+
+        // more thing s ae added
     }
 }
