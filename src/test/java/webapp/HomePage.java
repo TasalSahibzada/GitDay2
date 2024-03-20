@@ -1,0 +1,13 @@
+package webapp;
+
+public class HomePage {
+    public static void main(String[] args) {
+
+        //  setting up home page
+        // nav menu
+
+        // mpre thing for the homepage
+
+        // more thing s ae added
+    }
+}
